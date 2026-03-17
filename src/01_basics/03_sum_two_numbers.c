@@ -9,17 +9,17 @@ Author: Utkarsh Raj
 int main()
 {
   // Variable declaration
-  int num1, num2, sum=0;
+  int num1, num2, sum = 0;
 
   // -------- Input Section --------
-  printf("Enter two number : \n");
-  scanf("%d %d", &a, &b);
+  printf("Enter two number: ");
+  scanf("%d %d", &num1, &num2);
 
   // -------- Processing Section --------
-  sum = a + b;
+  sum = num1 + num2;
 
   // -------- Output Section --------
-  printf("%d\n", sum);
+  printf("Sum = %d\n", sum);
 
   return 0;
 }
