@@ -1,6 +1,6 @@
 /*
-Program: Sum three number
-Discription: Take three integer as input and prints their sum
+Program: Sum three numbers
+Description: Takes three integers as input and prints their sum.
 Author: Utkarsh Raj
 */
 
@@ -8,18 +8,18 @@ Author: Utkarsh Raj
 
 int main()
 {
-  // declaring the variables
-  int a, b, c, sum=0;
+  // Variable declarations
+  int num1, num2, num3, sum = 0;
 
-  // taking input from user
-  printf("Enter three numbers: \n");
-  scanf("%d %d %d", &a, &b, &c);
+  // -------- Input Section --------
+  printf("Enter three integers: ");
+  scanf("%d %d %d", &num1, &num2, &num3);
 
-  // calculating the sum
-  sum = a+b+c;
+  // -------- Processing Section --------
+  sum = num1 + num2 + num3;
 
-  // printing sum
-  printf("%d", sum);
+  // -------- Output Section --------
+  printf("Sum = %d", sum);
 
   return 0;
 }
