@@ -16,13 +16,13 @@ Author: Utkarsh Raj
 int main()
 {
   // Variable Declaration
-  float celsius
+  float celsius;
   float fahrenheit;
 
   // -------- Input Section --------
   printf("Temperature Converter\n");
   printf("-------------------------------\n");
-  printf("Enter temperature in Celsius(°C): ");
+  printf("Enter temperature in Celsius(C): ");
 
   if(scanf("%f", &celsius) != 1)
   {
@@ -34,7 +34,7 @@ int main()
   fahrenheit = (RATIO * celsius) + 32;
 
   // -------- Output Section --------
-  printf("Temperature in Fahrenheit: %.2f°F\n", fahrenheit);
+  printf("Temperature in Fahrenheit: %.2fF\n", fahrenheit);
 
   return 0;
 }
