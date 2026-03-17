@@ -1,6 +1,6 @@
 /* 
-Program: Sum
-Discription: Take two integers as input and prints their sum
+Program: Sum of two numbers.
+Description: Takes two integers as input and prints their sum.
 Author: Utkarsh Raj
 */
 
@@ -8,17 +8,17 @@ Author: Utkarsh Raj
 
 int main()
 {
-  // declaring the varibles
-  int a, b, sum=0;
+  // Variable declaration
+  int num1, num2, sum=0;
 
-  // taking input from user
+  // -------- Input Section --------
   printf("Enter two number : \n");
   scanf("%d %d", &a, &b);
 
-  // calculating sum
+  // -------- Processing Section --------
   sum = a + b;
 
-  // printing sum
+  // -------- Output Section --------
   printf("%d\n", sum);
 
   return 0;
