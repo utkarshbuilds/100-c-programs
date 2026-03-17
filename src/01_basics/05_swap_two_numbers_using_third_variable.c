@@ -15,13 +15,16 @@ int main()
   printf("Enter two numbers : ");
   scanf("%d %d", &num1, &num2);
 
+  // printing the numbers before swapping
+  printf("Before swapping: %d %d\n" num1, num2);
+
   // swaping the numbers
   temp = num1;
   num1 = num2;
   num2 = temp;
 
-  // printing the swapped numbers
-  printf("Swapped number are %d and %d.\n ", num1, num2);
+  // printing the numbers after swapping
+  printf("After swapping: %d %d.\n", num1, num2);
 
   return 0;
 }
