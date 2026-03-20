@@ -1,11 +1,6 @@
 /*
 Program: Simple Interest Calculator
 Description: This program takes principal, rate, time as the input and prints the SI as the output, calculated using formula((P*r*t)/100)).
-Date: 19-Mar-2026
-Input: Principal(float), rate(float), time(float)
-Output: SI(float)
-Version: 1.0
-Author: Utkarsh Raj
 */
 
 #include <stdio.h>
