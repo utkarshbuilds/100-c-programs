@@ -1,11 +1,6 @@
 /*
 Program: Area of Right Angle Triangle Calculator
 Description: Takes base and height as the input, and prints the area of triangle calculated by using formula (1/2 * base * height).
-Date: 19-Mar-2026
-Input: Base(float), Height(float)
-Output: Area(float)
-Version: 1.0
-Author: Utkarsh Raj
 */
 
 #include <stdio.h>
