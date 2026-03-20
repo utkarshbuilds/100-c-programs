@@ -1,10 +1,6 @@
 /*
 Program: Area Calculator(Circle)
 Description: Takes radius of circle as input, print area as result.
-Date: 17-Mar-2026
-Input: Radius(float)
-Output: Area(float)
-Version: 1.0
 Author: Utkarsh Raj
 */
 
