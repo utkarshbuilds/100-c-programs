@@ -1,10 +1,6 @@
 /* 
 Program: Area of Rectangle Calculator
 Description: Takes length and breadth as input and prints area as result.
-Date: 19-Mar-2026
-Input: Length(float), Breadth(float)
-Output: Area(float)
-Version: 1.0
 Author: Utkarsh Raj
 */
 
