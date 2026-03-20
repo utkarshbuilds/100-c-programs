@@ -1,11 +1,6 @@
 /*
 Program: Compound Interest Calculator
 Description: Takes Principal, Rate, Time and prints compound interest as result. 
-Date: 19-Mar-2026
-Input: Principal(float), Rate(float), Time(float)
-Output: Compound Interest(float)
-Version: 1.0
-Author: Utkarsh Raj
 */
 
 
