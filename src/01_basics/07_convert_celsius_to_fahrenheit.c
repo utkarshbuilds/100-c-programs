@@ -1,10 +1,6 @@
 /*
 Program: Celsius to Fahrenheit Converter.
 Description: Takes temperature in Celsius, converts it to Fahrenheit, and prints the result.
-Date: 17-Mar-2026
-Input: Temperature in Celsius(float)
-Output: Temprature in Fahrenheit(float)
-Version: 1.0
 Author: Utkarsh Raj
 */
 
